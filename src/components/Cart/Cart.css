@@ -1,0 +1,16 @@
+.orderBtn{
+    background-color: orangered;
+    padding: 8px 12px;
+    font-size: 14px;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    letter-spacing: 1px;
+    transition: 0.3s;
+    cursor: pointer;
+}
+.orderBtn:hover{
+    background-color: yellow;
+    letter-spacing: 2px;
+   
+}
